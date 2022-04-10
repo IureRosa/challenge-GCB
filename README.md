@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - ROTA INSERT:
 
 Metodo: POST
@@ -71,3 +72,7 @@ Metodo: DELETE
 URL: http://localhost:3001/xx
 
 Sendo XX igual ao ID do usuario a ser deletado.
+=======
+# challenge-GCB
+A repository for fullstack developer web testing
+>>>>>>> 901525c4dbad8ce99839141a6bd79fc18ab1a606
