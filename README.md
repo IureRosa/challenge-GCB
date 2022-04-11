@@ -8,7 +8,7 @@ Cadastrar um medico no sistema.
 enviado via body-parser os seguintes dados:
 
 {
-"name": "Caio Ribeiro",
+"name": "Iure Rosa",
 "CRM": "22.666.66",
 "fixFone": (11)5562-3285,
 "fone": (11)97651-2702,
