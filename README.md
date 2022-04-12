@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+## Full-Stack Developer Challenge
+
 - ROTA INSERT:
 
 Metodo: POST
